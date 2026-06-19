@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\script.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\config.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\collectibles\collectibles.cpp">
+      <Filter>source\collectibles</Filter>
+    </ClCompile>
+    <ClCompile Include="src\collectibles\collectible_types.cpp">
+      <Filter>source\collectibles</Filter>
+    </ClCompile>
+    <ClCompile Include="src\input\keyboard.cpp">
+      <Filter>source\input</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\script.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="src\config.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="src\collectibles\collectibles.h">
+      <Filter>source\collectibles</Filter>
+    </ClInclude>
+    <ClInclude Include="src\collectibles\collectible_types.h">
+      <Filter>source\collectibles</Filter>
+    </ClInclude>
+    <ClInclude Include="src\input\keyboard.h">
+      <Filter>source\input</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\inc\main.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\inc\enums.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\inc\natives.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\inc\types.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{fe82bd4a-2d14-486a-8be5-8bf6b50a2414}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{a1b2c3d4-e5f6-7890-abcd-ef1234567890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\collectibles">
+      <UniqueIdentifier>{b2c3d4e5-f6a7-8901-bcde-f12345678901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\input">
+      <UniqueIdentifier>{c3d4e5f6-a7b8-9012-cdef-123456789012}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
