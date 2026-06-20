@@ -1,7 +1,7 @@
+# Collectibles on Map & Radar for GTA V
+<img width="2560" height="1440" alt="screenshot" src="https://github.com/user-attachments/assets/2273e1f2-cf0e-4c8e-bfa1-9ab8676bf90c" />   
+
 Displays and correctly tracks all collectibles in GTA V on map and radar.  
-
-<img width="2560" height="1440" alt="screenshot" src="https://github.com/user-attachments/assets/2273e1f2-cf0e-4c8e-bfa1-9ab8676bf90c" />
-
 
 ## Config
 
